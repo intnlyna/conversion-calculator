@@ -1,0 +1,86 @@
+/*body */
+.class5 {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    margin: 0;
+}
+
+/*h1 */
+.class1 {
+    background-color: #4C4E52;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Navigation bar */
+.class3 {
+    background-color: #ffd800;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.class3 :hover {
+    background-color: #AEC6CF;
+}
+
+.class6 {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+/* Main  */
+.class2 {
+    margin-top: 20px;
+}
+
+
+.copy{
+	text-align: center;
+}
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Header styles */
+.header-title {
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Sub-header styles */
+.sub-header {
+    color: #333;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0;
+}
+
+/* Paragraph styles */
+.paragraph {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* Link styles */
+.link {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: blue;
+}
+
+.me {
+	text-align: center;
+}
